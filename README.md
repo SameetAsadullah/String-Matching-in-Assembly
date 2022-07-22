@@ -1,4 +1,4 @@
-<h1 align="center">String Matching Time in Assembly</h1>
+<h1 align="center">String Matching in Assembly</h1>
 
 ### Description
 It is a simple code written in `Assembly Language` to check whether two strings contain `Same Characters` or not `Irrespective of the Case`
