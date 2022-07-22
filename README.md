@@ -1,6 +1,3 @@
-# 
-
-
 <h1 align="center">String Matching Time in Assembly</h1>
 
 ### Description
